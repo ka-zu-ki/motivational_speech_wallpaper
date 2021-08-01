@@ -1,0 +1,17 @@
+#target {
+  margin-top: 50px;
+}
+
+.img {
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+}
+
+.text {
+  font-size:1.2rem;
+  letter-spacing: 0.02;
+  line-height: 1.5;
+  font-weight: bold;
+}
